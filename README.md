@@ -1,2 +1,2 @@
 # OpenCv-face
-face
+face xml
